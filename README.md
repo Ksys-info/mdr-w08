@@ -1,5 +1,4 @@
-# mdr-w08
-How to replace the cable on Sony MDR-W08 headphones
+# How to replace the cable on Sony MDR-W08 headphones
 
 1, Order the following cable:
 
@@ -37,7 +36,7 @@ This is a bit tricky and I could not always achieve this without causing a littl
 
 7, Put the speakers back into the headset (and note the little notch that must match up).
 
-![solder](images/solder.png)
+![notch](images/notch.png)
 
 This is also good time to test to seee if they work.
 
@@ -53,4 +52,3 @@ One of the headphones I repaired had a dead speaker so I canablized one I had in
 ![knot](images/knot.png)
 
 9, Replace the inserts and enjoy you headphones.
-
