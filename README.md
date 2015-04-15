@@ -51,4 +51,4 @@ One of the headphones I repaired had a dead speaker so I canablized one I had in
 
 ![knot](images/knot.png)
 
-9, Replace the inserts and enjoy you headphones.
+9, Replace the inserts and enjoy your headphones.
